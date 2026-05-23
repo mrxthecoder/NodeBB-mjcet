@@ -1,0 +1,12 @@
+{
+  "url": "https://YOUR-DOMAIN.up.railway.app",
+  "secret": "owais",
+  "database": "redis",
+  "redis": {
+    "host": "YOUR_REDIS_HOST",
+    "port": 6379,
+    "password": "YOUR_REDIS_PASSWORD",
+    "database": 0
+  },
+  "port": 4567
+}
