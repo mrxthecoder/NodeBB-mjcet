@@ -3,9 +3,9 @@
   "secret": "owais",
   "database": "redis",
   "redis": {
-    "host": "redis",
+    "host": "redis.railway.internal",
     "port": 6379,
-    "password": "1JnRiGpqrxkpIYCk",
+    "password": "WqMzysPvIJIfJQjPjAYkQjscDkVNVJhE",
     "database": 0
   },
   "port": 4567
