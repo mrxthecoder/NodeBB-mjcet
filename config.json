@@ -1,11 +1,11 @@
 {
-  "url": "https://YOUR-DOMAIN.up.railway.app",
+  "url": "https://nodebb-mjcet-production.up.railway.app/",
   "secret": "owais",
   "database": "redis",
   "redis": {
-    "host": "YOUR_REDIS_HOST",
+    "host": "redis",
     "port": 6379,
-    "password": "YOUR_REDIS_PASSWORD",
+    "password": "1JnRiGpqrxkpIYCk",
     "database": 0
   },
   "port": 4567
